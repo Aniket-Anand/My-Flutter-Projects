@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "624309706659",
+    "firebase_url": "https://flash-chat-9e322.firebaseio.com",
+    "project_id": "flash-chat-9e322",
+    "storage_bucket": "flash-chat-9e322.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624309706659:android:cf413ea1a04cf742d40416",
+        "android_client_info": {
+          "package_name": "co.aniket.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624309706659-uil5kinv4ft6gq5ds6cbemmlgpcuat05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD63SDyEx8wTDcm_AcRviE-lMKS2ZlX-Rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624309706659-uil5kinv4ft6gq5ds6cbemmlgpcuat05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
